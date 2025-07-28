@@ -1,0 +1,37 @@
+[
+  {
+    "fresher_id": 1,
+    "certification_name": "AWS Foundations",
+    "status": "In Progress",
+    "issued_date": "2025-07-07",
+    "score": 9
+  },
+  {
+    "fresher_id": 2,
+    "certification_name": "AWS Foundations",
+    "status": "In Progress",
+    "issued_date": "2025-07-23",
+    "score": 80
+  },
+  {
+    "fresher_id": 3,
+    "certification_name": "AWS Foundations",
+    "status": "In Progress",
+    "issued_date": "2025-07-19",
+    "score": 9
+  },
+  {
+    "fresher_id": 4,
+    "certification_name": "AWS Foundations",
+    "status": "Completed",
+    "issued_date": "2025-07-07",
+    "score": 8
+  },
+  {
+    "fresher_id": 5,
+    "certification_name": "AWS Foundations",
+    "status": "In Progress",
+    "issued_date": "2025-07-16",
+    "score": 6
+  }
+]
