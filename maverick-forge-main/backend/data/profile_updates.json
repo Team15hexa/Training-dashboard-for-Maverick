@@ -1,0 +1,52 @@
+[
+  {
+    "fresher_id": 1,
+    "action": "Profile Updated",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 1,
+    "action": "Daily Quiz Completed",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 2,
+    "action": "Profile Updated",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 2,
+    "action": "Daily Quiz Completed",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 3,
+    "action": "Profile Updated",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 3,
+    "action": "Daily Quiz Completed",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 4,
+    "action": "Profile Updated",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 4,
+    "action": "Daily Quiz Completed",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 5,
+    "action": "Profile Updated",
+    "timestamp": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 5,
+    "action": "Daily Quiz Completed",
+    "timestamp": "2025-07-23 10:02:29"
+  }
+]

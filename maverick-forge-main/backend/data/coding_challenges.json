@@ -1,0 +1,37 @@
+[
+  {
+    "fresher_id": 1,
+    "challenge_name": "Intro Challenge",
+    "status": "In Progress",
+    "score": 8,
+    "submitted_at": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 2,
+    "challenge_name": "Intro Challenge",
+    "status": "In Progress",
+    "score": 90,
+    "submitted_at": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 3,
+    "challenge_name": "Intro Challenge",
+    "status": "In Progress",
+    "score": 8,
+    "submitted_at": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 4,
+    "challenge_name": "Intro Challenge",
+    "status": "Not Started",
+    "score": 9,
+    "submitted_at": "2025-07-23 10:02:29"
+  },
+  {
+    "fresher_id": 5,
+    "challenge_name": "Intro Challenge",
+    "status": "Not Started",
+    "score": 6,
+    "submitted_at": "2025-07-23 10:02:29"
+  }
+]
