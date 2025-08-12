@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "email": "alex.johnson@example.com",
+    "department": "Software Engineering",
+    "skills": "JavaScript, React",
+    "status": "Active",
+    "joined_at": "2025-07-13"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Chen",
+    "email": "sarah.chen@example.com",
+    "department": "Data Science",
+    "skills": "JavaScript, React",
+    "status": "Active",
+    "joined_at": "2025-07-17"
+  },
+  {
+    "id": 3,
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez@example.com",
+    "department": "DevOps",
+    "skills": "JavaScript, React",
+    "status": "Active",
+    "joined_at": "2025-06-14"
+  },
+  {
+    "id": 4,
+    "name": "Emily Watson",
+    "email": "emily.watson@example.com",
+    "department": "Frontend",
+    "skills": "JavaScript, React",
+    "status": "Active",
+    "joined_at": "2025-05-27"
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "department": "Backend",
+    "skills": "JavaScript, React",
+    "status": "Active",
+    "joined_at": "2025-06-18"
+  },
+  {
+    "id": 6,
+    "name": "Ravi K",
+    "email": "ravi.k@example.com",
+    "department": "Mechanical Engineering",
+    "skills": "CAD, SolidWorks, MATLAB",
+    "status": "Active",
+    "joined_at": "2025-07-20"
+  }
+]
